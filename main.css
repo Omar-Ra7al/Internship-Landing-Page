@@ -253,7 +253,8 @@ button:hover {
 
 .button-group button:last-child {
   margin-left: 10px;
-  background-color: var(--secondary-color) !important;
+  background-color: var(--secondary-color) ;
+  color: #1c1c1c;
 }
 
 /* Medium devices */
