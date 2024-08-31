@@ -13,3 +13,6 @@ This landing page is designed to showcase a product or service with a clean and 
 ## Lighthouse Performance
 
 Lighthouse scores for performance and best practices are 100%. However, accessibility has room for improvement, specifically concerning color contrast.
+
+## Demo
+You can view the live demo of this project [here](https://omar-ra7al.github.io/Internship-Landing-Page/).
